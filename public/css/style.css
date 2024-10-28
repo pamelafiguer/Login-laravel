@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img/ciudad.jpg') no-repeat ; 
+    background: url('imgen/ciudad.jpg') no-repeat ; 
     background-size: cover;
     background-position: center;
    
@@ -866,6 +866,7 @@ button {
     background-color: rgba(0,0,0,0.5);
     justify-content: center;
     align-items: center;
+    align-content: center;
 }
 
 .modal-content {
@@ -874,6 +875,7 @@ button {
     border-radius: 30px;
     text-align: center;
     width: 350px;
+    margin-left: 35%;
     box-shadow: 0 4px 8px rgb(255 241 241 / 92%);
     
 }
