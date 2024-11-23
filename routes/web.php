@@ -1,7 +1,5 @@
 <?php
 
-
-
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\api\webCinestar;
 use App\Http\Controllers\api\LoginController;
